@@ -1,12 +1,9 @@
 ### Hi there 👋
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jirung0227" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
-</a>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jirung0227&theme=gruvbox" />
+</a><br><br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jirung0227&size_weight=0.5&count_weight=0.5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jirung0227&theme=gruvbox&size_weight=0.5&count_weight=0.5)
 <!--
 **jirung0227/jirung0227** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
