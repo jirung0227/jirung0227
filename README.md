@@ -3,7 +3,6 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jirung0227&theme=gruvbox" />
 </a><br><br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jirung0227&theme=gruvbox&size_weight=0.5&count_weight=0.5)
 <!--
 **jirung0227/jirung0227** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
