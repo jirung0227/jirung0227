@@ -33,6 +33,8 @@
 <h3 align="center">🌟 GitHub Stats 🌟 </h3>
 <div align="center">
   <img height=200  src="https://github-readme-stats.vercel.app/api?username=jirung0227&theme=gruvbox" />
+</div>
+<div align="center">
   <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=jirung0227&layout=compact&theme=gruvbox" />
 </div>
 
