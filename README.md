@@ -30,19 +30,17 @@
   <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
 </div>
 
-<h3 align="center">🌟 GitHub Stats 🌟 </h3>
-<div align="center">
-  <img height=200  src="https://github-readme-stats.vercel.app/api?username=jirung0227&theme=gruvbox" />
-</div>
-<div align="center">
-  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=jirung0227&layout=compact&theme=gruvbox" />
-</div>
-
 <h3 align="center">🧩 Algorithm 🧩 </h3>
 <div align="center">
   <a href="https://solved.ac/gw031763" target="_blank">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gw031763" alt="Solved.ac Profile Badge" />
   </a>
+</div>
+
+<h3 align="center">🌟 GitHub Stats 🌟 </h3>
+<div align="center">
+  <img height=200  src="https://github-readme-stats.vercel.app/api?username=jirung0227&theme=gruvbox" />
+  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=jirung0227&layout=compact&theme=gruvbox" />
 </div>
 
 <!--
