@@ -1,7 +1,7 @@
-<h1 align="center">👋 Hi there, I'm 정지형! 👋</h1>
+<h1 align="center">🎄🎅🏻 Welcome to my GitHub! 🎁☃️</h1>
 <p align="center">
   Welcome to my GitHub profile! I'm a passionate developer always striving to learn and grow. <br>
-  Let's build something amazing together and make a positive impact! 🚀
+  Let's build something amazing together and make a positive impact! ✨🎉
 </p>
 
 <!--내용 부분-->
