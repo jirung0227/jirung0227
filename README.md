@@ -4,6 +4,10 @@
   Let's build something amazing together and make a positive impact! ✨🎉
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/🎁-Your%20next%20favorite%20repo%20is%20here!-red?style=for-the-badge" alt="ribbon-banner" />
+</p>
+
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
