@@ -1,8 +1,8 @@
-### Hi there 👋
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jirung0227&theme=gruvbox" />
-</a><br><br>
+<h1 align="center">👋 Hi there, I'm 정지형! 👋</h1>
+<p align="center">
+  Welcome to my GitHub profile! I'm a passionate developer always striving to learn and grow. <br>
+  Let's build something amazing together and make a positive impact! 🚀
+</p>
 
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
@@ -20,6 +20,7 @@
 
 <h3 align="center">📈 GitHub Stats</h3>
 <div align="center">
+  <img height=200  src="https://github-readme-stats.vercel.app/api?username=jirung0227&theme=gruvbox" />
   <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=jirung0227&layout=compact&theme=gruvbox" />
 </div>
 
