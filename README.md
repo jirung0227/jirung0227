@@ -1,4 +1,5 @@
 ### Hi there 👋
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jirung0227&theme=gruvbox" />
 </a><br><br>
@@ -17,7 +18,10 @@
   <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
 </div>
 
-<br>
+<h3 align="center">📈 GitHub Stats</h3>
+<div align="center">
+  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=jirung0227&layout=compact&theme=gruvbox" />
+</div>
 
 
 <!--
