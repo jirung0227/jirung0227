@@ -1,4 +1,4 @@
-<h1 align="center">🎄🎅🏻 Welcome to my GitHub! 🎁☃️</h1>
+<h1 align="center">elcome to my GitHub!</h1>
 <p align="center">
   Welcome to my GitHub profile! I'm a passionate developer always striving to learn and grow. <br>
   Let's build something amazing together and make a positive impact! ✨🎉
